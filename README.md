@@ -7,7 +7,7 @@
 [![Discord](https://shields.io)](https://discord.gg/tWCv7dqze)
 
 ---
-[📥 Download .ZIP](ССЫЛКА_НА_СКАЧИВАНИЕ_ZIP) • [📦 Download .MRPACK](ССЫЛКА_НА_СКАЧИВАНИЕ_MRPACK)
+[📥 Download .ZIP](https://github.com/PCreatoP/Punched-Stuffs/releases/download/v1.0/Punched.Stuffs.zip) • [📦 Download .MRPACK](https://github.com/PCreatoP/Punched-Stuffs/releases/download/v1.0/Punched.Stuffs.mrpack)
 ---
 
 </div>
