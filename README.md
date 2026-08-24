@@ -46,3 +46,16 @@ The easiest way to play is using **Prism Launcher** or **PineconeMC**:
 ## 🤝 Community & Feedback
 
 If you find any bugs, please open an **Issue** here or join our **Discord**!
+
+</details>
+
+## 🐞 IMPORTANT READ IT
+
+If you happened to open the "Resource Packs" menu, some animations or held items might not display correctly. To fix this, press the **Win + R** keys, type `%appdata%`, and press **Enter**. Then, select your launcher from the list of folders, go to the `instances` folder, and select the folder named "Punched Stuffs" (or whatever you named it). Next, navigate to the `minecraft` folder, find the `config` folder, and look for the `punchy` folder inside it. Locate the `punchy_config.json` file, delete it, and then restart the game.
+
+</details>
+
+## На Русском 
+
+Если вы случайно зашли в меню «Наборы ресурсов», есть вероятность, что некоторые анимации или вещи будут держаться в руке не коректно. Чтоб это исправить нажмите сочитание клавишь Win  + R  и вбейте туда %appdata % затем нажмите Enter, после чего выберите ваш лаунчер в списке папок затем зайтите в папку instances и выберете сбоку Punched Stuffs или как она у вас нозвана, потом перейдите в папку minecraft и найдите папку config и там должна быть папка punchy и найдите там файл punchy_config.json и удолите его после этого перезапустите игру.
+
